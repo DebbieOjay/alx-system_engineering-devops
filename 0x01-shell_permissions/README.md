@@ -1,1 +1,1 @@
-this sets modes of file
+this sets permissions for directories
