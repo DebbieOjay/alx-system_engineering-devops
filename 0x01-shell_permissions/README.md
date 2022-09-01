@@ -1,1 +1,1 @@
-this folder contains how to create empty file
+this folder contains how to add permission to file
