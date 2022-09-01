@@ -1,1 +1,1 @@
-this sets permissions for directories also
+this folder containshow to change groups
