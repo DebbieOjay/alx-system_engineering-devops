@@ -1,1 +1,1 @@
-This do not allow permission
+this sets modes of file
