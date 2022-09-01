@@ -1,1 +1,1 @@
-This allows everybody to modify
+This do not allow permission
