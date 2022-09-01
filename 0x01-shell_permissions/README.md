@@ -1,1 +1,1 @@
-this folder contains changing owners
+this folder contains changing owners and group owners respectively
