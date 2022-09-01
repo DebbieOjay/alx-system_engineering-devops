@@ -1,1 +1,1 @@
-this folder contains groups file
+New owner file
