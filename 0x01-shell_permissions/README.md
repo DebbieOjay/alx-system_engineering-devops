@@ -1,1 +1,1 @@
-this folder containshow to change groups
+this folder contains changing owners
