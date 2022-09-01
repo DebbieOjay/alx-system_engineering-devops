@@ -1,1 +1,1 @@
-This folder is about printing usernames
+this folder contains groups file
