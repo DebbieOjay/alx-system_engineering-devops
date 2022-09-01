@@ -1,1 +1,1 @@
-This folders allows execute and read permission
+This allows everybody to modify
