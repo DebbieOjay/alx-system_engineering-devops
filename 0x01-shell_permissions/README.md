@@ -1,1 +1,1 @@
-this folder contains how to add permission to file
+This folders allows execute and read permission
