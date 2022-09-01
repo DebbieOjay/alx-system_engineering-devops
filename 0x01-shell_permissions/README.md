@@ -1,1 +1,1 @@
-This folder is about permission commands
+This folder is about printing usernames
