@@ -1,1 +1,1 @@
-this sets permissions for directories
+this sets permissions for directories also
