@@ -1,1 +1,1 @@
-This removes files
+This removes directories
