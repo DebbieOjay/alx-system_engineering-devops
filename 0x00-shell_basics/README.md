@@ -1,1 +1,1 @@
-This moves files from one directory to another
+This removes files
