@@ -1,1 +1,1 @@
-This displays current list
+This changes working directory
