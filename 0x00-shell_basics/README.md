@@ -1,1 +1,1 @@
-copying html files to current working directory
+moving files beginninmg with upper case.
