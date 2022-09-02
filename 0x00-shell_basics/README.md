@@ -1,1 +1,1 @@
-This changes working directory
+Ths lists out both hidden files in long format
