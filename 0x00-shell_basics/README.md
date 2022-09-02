@@ -1,1 +1,1 @@
-printing symbolic link in current working directory
+copying html files to current working directory
