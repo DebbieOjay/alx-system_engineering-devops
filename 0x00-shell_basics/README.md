@@ -1,1 +1,1 @@
-printing files
+printing symbolic link in current working directory
